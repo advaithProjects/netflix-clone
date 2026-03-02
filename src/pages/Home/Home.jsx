@@ -13,9 +13,9 @@ const Home = () => {
     <div className="home">
       <Navbar />
       <div className="hero">
-        <img src={Salaar_banner1} alt="" className="banner-img" />
+        <img src={Salaar_banner1} className="banner-img" />
         <div className="hero-caption">
-          <img src={Salaar_title} alt="" className="caption-img" />
+          <img src={Salaar_title} className="caption-img" />
           <p>
             It follows a violent story of friendship and betrayal set in the
             fictional dystopian city-state of Khansaar. The word "Salaar" means
