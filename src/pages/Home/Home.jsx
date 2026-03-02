@@ -6,7 +6,7 @@ import info_icon from "../../assets/info_icon.png";
 import Titlecards from "../../components/Titlecards/Titlecards";
 import Footer from "../../components/Footer/Footer";
 import Salaar_banner1 from "../../assets/Salaar_banner1.jpg";
-import Salaar_title from "../../assets/Salaar_title.png";
+import Salaar_title from "../../assets/salaar_title.png";
 
 const Home = () => {
   return (
